@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Env / secrets
+.env
+
+# Data/outputs (opcjonalnie usuń, jeśli chcesz trzymać w repo)
+outputs/
