@@ -17,8 +17,5 @@ Analysis of global CO2 emissions using data from Our World in Data.
 - Yemen, Estonia, Finland lead in reductions
 - Solar PV will be cheapest by 2030
 
-### Other Files
-- `01_hello_data.ipynb` - Introduction to data analysis
-
 ## Author
 Łukasz Szota | December 2025
